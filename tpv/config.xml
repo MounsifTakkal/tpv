@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--config with no DTD-->
+<config>
+    <connection title="generic">
+        <info>
+            <dbhost>127.0.0.1</dbhost>
+            <bbdd>proves</bbdd>
+            <user>jomateix</user>
+            <pswd>superstrongpassword</pswd>
+        </info>
+        <instructions>Instructions.</instructions>
+    </connection>
+    <connection title="odoo">
+        <info>
+            <dbhost>192.168.0.1</dbhost>
+            <bbdd>odoo</bbdd>
+            <user>jomateix2</user>
+            <pswd>superstrongpassword2</pswd>
+        </info>
+        <instructions>Instructions.</instructions>
+    </connection>
+</config>
